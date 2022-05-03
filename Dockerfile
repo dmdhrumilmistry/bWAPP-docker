@@ -12,7 +12,7 @@
 #	docker build -t bwapp-docker .
 #
 #   # run docker container
-#	docker run -d -p 80:80 mybwapp-docker
+#	docker run -d -p 80:80 bwapp-docker
 #
 
 FROM mattrayner/lamp
